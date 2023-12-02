@@ -1,0 +1,19 @@
+{
+  "name": "week_8_exercise_json_stringify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinngonzales/week_8_json_stringify.git"
+  },
+  "author": "Kevinn Gonzales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinngonzales/week_8_json_stringify/issues"
+  },
+  "homepage": "https://github.com/kevinngonzales/week_8_json_stringify#readme"
+}
